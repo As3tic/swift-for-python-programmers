@@ -10,4 +10,4 @@
 
 ### 3. [Miscellaneous](./sections/miscellaneous-03.md)
 
-### 3. [Conditionals](./sections/conditionals-04.md)
+### 4. [Conditionals](./sections/conditionals-04.md)
