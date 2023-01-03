@@ -1,6 +1,5 @@
 # Miscellaneous
 
-
 <div style="text-align: right"> <a href="javascript:history.back()">🏡</a>
 </div>
 
@@ -26,3 +25,17 @@ let (status_code, message) = http200
 
 Similary you can also ignore certain values using `_`
 
+
+## 3. Optional Binding
+
+Somewhat like the whalurus operator once can have an assigment operation inside a conditional
+
+```swift
+let numStr = "123"
+
+if let numInt = Int(numStr) {
+    print("The string \"\(numStr)\" has an integer value of \(numInt)")
+} else {
+    print("The string \"\(numStr)\" couldn't be converted to an integer")
+}
+```
