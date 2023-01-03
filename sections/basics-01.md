@@ -1,4 +1,11 @@
-## 1. Variables and Constants
+# Basics
+
+
+<div style="text-align: right"> <a href="javascript:history.back()">🏡</a>
+</div>
+
+## 1. Variables and Constants 
+
 
 Unlike python, there are Variables and Constants in Swift
 
@@ -64,4 +71,3 @@ print("My name is \(name)")
 comment
 */
 ```
-
