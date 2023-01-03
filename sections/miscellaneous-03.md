@@ -13,3 +13,16 @@ let twoThousand: UInt16 = 2_000
 let one: UInt8 = 1
 let twoThousandAndOne = twoThousand + UInt16(one)
 ```
+
+## 2. Decomposing
+
+Unpacking in Python is called Decomposing here
+
+```swift
+let http200 = (200, "OK")
+
+let (status_code, message) = http200
+```
+
+Similary you can also ignore certain values using `_`
+
