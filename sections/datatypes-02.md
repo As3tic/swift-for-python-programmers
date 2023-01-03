@@ -1,6 +1,5 @@
 # Datatypes
 
-
 <div style="text-align: right"> <a href="javascript:history.back()">🏡</a>
 </div>
 
