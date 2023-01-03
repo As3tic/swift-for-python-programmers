@@ -57,3 +57,13 @@ let name = "As3tic"
 print("My name is \(name)")
 ```
 
+## 4. Comments
+
+```swift
+// single line comment
+
+/* multi-line 
+comment
+*/
+```
+
