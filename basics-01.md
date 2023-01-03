@@ -1,5 +1,3 @@
-# Swift for Python Programmers
-
 ## 1. Variables and Constants
 
 Unlike python, there are Variables and Constants in Swift
