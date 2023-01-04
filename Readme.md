@@ -13,11 +13,11 @@
 
 ### 2. [Data Types](./sections/language/datatypes.md)
 
-### 4. [Conditionals](./sections/language/conditionals.md)
+### 3. [Conditionals](./sections/language/conditionals.md)
 
-### 3. [Functions](./sections/language/functions.md)
+### 4. [Functions](./sections/language/functions.md)
 
-### 4. [Miscellaneous](./sections/language/miscellaneous.md)
+### 5. [Miscellaneous](./sections/language/miscellaneous.md)
 
 
 ---
