@@ -70,3 +70,24 @@ print("My name is \(name)")
 comment
 */
 ```
+
+## 5. String formatting
+
+String formatting is somewhat more convoluted in Swift
+
+```swift
+let person : String
+person = "As3tic"
+```
+
+On one hand we have the string concetenation we're all too familiar with
+
+```swift
+let greeting = "Hello, " + person
+```
+
+On the other we could do this
+
+```swift
+let greeting = String(format: "%@%x", "timeNow in hex: ", person)
+```
