@@ -9,13 +9,16 @@
 
 ## Programming Language
 
-### 1. [Basics](./sections/language/basics-01.md)
+### 1. [Basics](./sections/language/basics.md)
 
-### 2. [Data Types](./sections/language/datatypes-02.md)
+### 2. [Data Types](./sections/language/datatypes.md)
 
-### 3. [Miscellaneous](./sections/language/miscellaneous-03.md)
+### 4. [Conditionals](./sections/language/conditionals.md)
 
-### 4. [Conditionals](./sections/language/conditionals-04.md)
+### 3. [Functions](./sections/language/functions.md)
+
+### 3. [Miscellaneous](./sections/language/miscellaneous.md)
+
 
 ---
 
