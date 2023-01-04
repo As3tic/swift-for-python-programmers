@@ -39,3 +39,20 @@ if let numInt = Int(numStr) {
     print("The string \"\(numStr)\" couldn't be converted to an integer")
 }
 ```
+
+## 4. Function parameters
+
+Passing named parameters to a Swift function follows the type annotatin syntax
+
+```swift
+func greet(person: String) -> String {
+    let greeting = "Hello, " + person
+    return greeting
+}
+```
+
+Is called like
+
+```swift
+greet(person: "As3tic")
+```
