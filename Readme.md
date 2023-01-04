@@ -17,7 +17,7 @@
 
 ### 3. [Functions](./sections/language/functions.md)
 
-### 3. [Miscellaneous](./sections/language/miscellaneous.md)
+### 4. [Miscellaneous](./sections/language/miscellaneous.md)
 
 
 ---
