@@ -21,3 +21,29 @@ func sayAge(age: Int8) -> String {
 let age = sayAge(age: 18)
 print(age)
 ```
+
+## 3. Function Overloading
+
+Functions can be overloaded to accept parameters of different types, each having their own definition
+
+```swift
+func printInput(arg: Int) {
+    print("Input", arg)
+}
+
+func printInput(arg: String) {
+    print("Input", arg)
+}
+```
+
+```swift
+printInput(arg: 1)
+```
+
+> Input 1
+
+```swift
+printInput(arg: "One")
+```
+
+> Input One
