@@ -3,6 +3,15 @@
 <div style="text-align: right"> <a href="javascript:history.back()">🏡</a>
 </div>
 
+## Table of contents
+
+1. [Definition](#1-defining-a-function)
+2. [Calling](#2-calling-a-function)
+3. [Overloading](#3-function-overloading)
+4. [Closures](#4-closures)
+
+---
+
 ## 1. Defining a function
 
 Functions are defined with the `func` keyword in Swift, the parameters are annotated using `:`
