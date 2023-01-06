@@ -47,3 +47,29 @@ printInput(arg: "One")
 ```
 
 > Input One
+
+## 4. Closures
+
+Closures are like `lambda` functions in Python
+
+```swift
+let names = ["Chris", "Alex", "Ewa", "Barry", "Daniella"]
+```
+
+```swift
+func backward(_ s1: String, _ s2: String) -> Bool {
+    return s1 > s2
+}
+```
+
+```swift
+var reversedNames = names.sorted(by: backward)
+```
+
+This can also be written as
+
+```swift
+reversedNames = names.sorted(by: { (s1: String, s2: String) -> Bool in
+    return s1 > s2
+})
+```
