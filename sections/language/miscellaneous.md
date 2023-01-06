@@ -28,7 +28,7 @@ Similary you can also ignore certain values using `_`
 
 ## 3. Optional Binding
 
-Somewhat like the whalurus operator once can have an assigment operation inside a conditional
+Somewhat like the whalrus operator once can have an assigment operation inside a conditional
 
 ```swift
 let numStr = "123"
