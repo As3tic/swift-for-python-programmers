@@ -10,6 +10,12 @@
 3. [Overloading](#3-function-overloading)
 4. [Closures](#4-closures)
 
+    4.1. [Implicit return](#41-implicit-return-method)
+
+    4.2. [Shorthand](#42-shorthand-method)
+    
+    4.3. [Operator](#43-operator-method) 
+
 ---
 
 ## 1. Defining a function
@@ -81,4 +87,26 @@ This can also be written as
 reversedNames = names.sorted(by: { (s1: String, s2: String) -> Bool in
     return s1 > s2
 })
+```
+
+> Swift can infer the type from the context without being explicitly stated
+
+> `var reversedNames = names.sorted(by: { s1, s2 in return s1 > s2 } )`
+
+### 4.1 Implicit return method
+
+```swift
+var reversedNames = names.sorted(by: { s1, s2 in s1 > s2 } )
+```
+
+### 4.2 Shorthand method
+
+```swift
+var reversedNames = names.sorted(by: { $0 > $1 } )
+```
+
+### 4.3 Operator method
+
+```swift
+var reversedNames = names.sorted(by: >)
 ```
