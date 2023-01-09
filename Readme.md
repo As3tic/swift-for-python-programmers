@@ -4,7 +4,6 @@
 
 ![Website](https://img.shields.io/website?down_message=%E2%9D%8C&up_message=%E2%9C%85&url=https%3A%2F%2Fas3tic.github.io%2Fswift-for-python-programmers%2F)
 
-[Documentation](https://as3tic.github.io/swift-for-python-programmers/)
 # Contents
 
 ## Programming Language
@@ -21,11 +20,3 @@
 
 
 ---
-
-## ViewController
-
-> To be added
-
-## SwiftUI
-
-> To be added
