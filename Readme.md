@@ -20,3 +20,7 @@
 
 
 ---
+
+## Exercises
+
+### 1. [Reverse array](./sections/exercises/array_reverse.swift)
