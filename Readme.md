@@ -24,5 +24,5 @@
 ## Exercises
 
 ### 1. Arrays
-1. [Reversal](./sections/exercises/array_reverse.swift)
-2. [2D Array (Hourglass sum)](./sections/exercises/hourglass_2d_array.swift)
+1. [Reversal](./sections/exercises/array_reverse.md)
+2. [2D Array (Hourglass sum)](./sections/exercises/hourglass_2d_array.md)
