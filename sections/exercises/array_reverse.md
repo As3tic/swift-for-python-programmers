@@ -1,3 +1,9 @@
+# Reversing an Array in Swift
+
+<div style="text-align: right"> <a href="javascript:history.back()">🏡</a>
+</div>
+
+```swift
 import Foundation
 
 func reverseArray(a: [Int]) -> [Int] {
@@ -19,3 +25,4 @@ let a: [Int]
 a = [4,3,2,1]
 
 print(reverseArray(a: a))
+```

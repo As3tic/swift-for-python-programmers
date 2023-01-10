@@ -1,4 +1,11 @@
- func hourglassSum(_ arr: [[Int]]) -> Int {
+# Hourglass sum of a 2D Array
+
+<div style="text-align: right"> <a href="javascript:history.back()">🏡</a>
+</div>
+
+
+```swift
+func hourglassSum(_ arr: [[Int]]) -> Int {
     var ans = Int.min
 
     for i in 0..<arr.count-2 {
@@ -13,3 +20,4 @@
 
     return ans
 }
+```
