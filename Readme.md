@@ -4,9 +4,15 @@
 
 ![Website](https://img.shields.io/website?down_message=%E2%9D%8C&up_message=%E2%9C%85&url=https%3A%2F%2Fas3tic.github.io%2Fswift-for-python-programmers%2F)
 
-# Contents
+## Contents
 
-## Programming Language
+### 1. [Concepts](#1-concepts)
+
+### 2. [Exercises](#2-exercises)
+### 3. [SwiftUI](#3-swiftui)
+
+---
+## 1. Concepts
 
 ### 1. [Basics](./sections/language/basics.md)
 
@@ -21,13 +27,13 @@
 
 ---
 
-## Exercises
+## 2. Exercises
 
 ### 1. Arrays
 1. [Reversal](./sections/exercises/array_reverse.md)
 2. [2D Array (Hourglass sum)](./sections/exercises/hourglass_2d_array.md)
 
 
-## SwiftUI
+## 3. SwiftUI
 
 1. [To Do App](https://github.com/As3tic/SwiftUI-Todo-App)
