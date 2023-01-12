@@ -9,9 +9,11 @@
 ### 1. [Concepts](#1-concepts)
 
 ### 2. [Exercises](#2-exercises)
+
 ### 3. [SwiftUI](#3-swiftui)
 
 ---
+
 ## 1. Concepts
 
 ### 1. [Basics](./sections/language/basics.md)
@@ -24,16 +26,17 @@
 
 ### 5. [Miscellaneous](./sections/language/miscellaneous.md)
 
-
 ---
 
 ## 2. Exercises
 
 ### 1. Arrays
+
 1. [Reversal](./sections/exercises/array_reverse.md)
 2. [2D Array (Hourglass sum)](./sections/exercises/hourglass_2d_array.md)
-
 
 ## 3. SwiftUI
 
 1. [To Do App](https://github.com/As3tic/SwiftUI-Todo-App)
+
+2. [Save view to gallery](./sections/swiftui/view-to-gallery.md)
