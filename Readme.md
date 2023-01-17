@@ -9,11 +9,9 @@
 ### 1. [Concepts](#1-concepts)
 
 ### 2. [Exercises](#2-exercises)
-
 ### 3. [SwiftUI](#3-swiftui)
 
 ---
-
 ## 1. Concepts
 
 ### 1. [Basics](./sections/language/basics.md)
@@ -26,14 +24,16 @@
 
 ### 5. [Miscellaneous](./sections/language/miscellaneous.md)
 
+
 ---
 
 ## 2. Exercises
 
 ### 1. Arrays
-
 1. [Reversal](./sections/exercises/array_reverse.md)
 2. [2D Array (Hourglass sum)](./sections/exercises/hourglass_2d_array.md)
+3. [Sum of Array elements](./sections/exercises/sum_array_elements.md)
+4. [Compare Array elements](./sections/exercises/element_comparision.md)
 
 ## 3. SwiftUI
 
